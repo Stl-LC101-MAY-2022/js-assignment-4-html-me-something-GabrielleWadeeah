@@ -1,1 +1,41 @@
 /* Write your CSS here! */
+header, h1, h2, h3 {
+    text-align: center;
+}
+
+body {
+    background-color: #CBC3E3;
+    margin: 8px;
+    display: inline-flexbox;
+  }
+
+  figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+p {
+	text-align: center;
+	padding: 3em;
+}
+
+.tagline {
+    font-style: italic;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: green;
+}
+
+.funParagraph {
+    color: green;
+}
